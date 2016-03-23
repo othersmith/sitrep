@@ -1,0 +1,25 @@
+--------------------------------------
+---          README.txt            ---          
+--------------------------------------
+
+WHAT'S NEW
+Version 1.4.1
+
+* Updated API Version Number
+
+DESCRIPTION
+SitRep displays a brief report about the character's situation when the character is loaded.  This report includes:
+
+  * The character's map location by name (Elden Root as opposed to Grahtwood, for instance)
+  * Currently held gold as well as banked gold
+  * A warning is displayed if the character is below a definable threshold for available bag space (by default ten available slots)
+  * Each slotted weapon is examined and a list of those that fall below a definable threshold for enchantment charge is displayed (default is 30%)
+  * Each slotted armor piece is examined and a list of those that fall below a definable threshold for durability is displayed (default is 30%)
+
+The report will stay centered on screen for a definable about of time (default seven seconds) before being removed.  
+
+PURPOSE
+The idea was that as people run a number of different alt characters they may need a brief reminder of their character's situation upon load as they switch back and forth, or load one they haven't used in a while.
+
+LOCALIZATION
+I just threw the text into google translate so if it comes out wonky for your language, I'm really sorry. 

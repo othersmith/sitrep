@@ -1,0 +1,13 @@
+<GuiXml>
+    <Controls>
+        <TopLevelControl movable="true" mouseEnabled="false" name="SitRep" duration="5" enableFadeOut="true">
+            <Dimensions y="800" x="500"/>
+            <Anchor point="CENTER" />
+            <Controls>
+                <Label name="$(parent)Message" alpha="0.50" text="" horizontalAlignment="LEFT" verticalAlignment="CENTER" wrapMode="ELLIPSIS" color="ffffff" font="ZoFontAnnounce">
+                    <AnchorFill/>
+                </Label>
+            </Controls>
+        </TopLevelControl>
+    </Controls>
+</GuiXml>

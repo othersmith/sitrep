@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectSettings>
+    <PublishTarget IsUserSpecific="false" Location="C:\Users\craig\Documents\Elder Scrolls Online\live\AddOns\SitRep" />
+    <IgnoreFilter>*.config; *.cs; *.csproj; *.vsdoc.js; *.bundle; *.sln; *.vssscc; *.vspscc; *.mcwebhelp; *.snk; *.tdf; *.cd; *.settings; *.pubxml; *.map; *.wsdl; *.datasource; *.disco; *.tt; *.t4; T4MVC*; *.user; *.resx; _references.js; obj\; Properties\; _bin_deployableAssemblies\; App_Data\;</IgnoreFilter>
+    <MappingEnabled>false</MappingEnabled>
+    <Items />
+</ProjectSettings>

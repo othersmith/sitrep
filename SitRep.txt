@@ -1,0 +1,29 @@
+## Title: SitRep Addon
+## Description: Displays a quick situation report on character load.
+## Author: Mishima
+## Version: 1.4.3
+## APIVersion: 100014
+## SavedVariables: SitRep_SavedVariables
+## OptionalDependsOn: LibAddonMenu-2.0
+
+localization\en.lua
+localization\$(language).lua
+libs\LibStub\LibStub.lua
+libs\LibAddonMenu-2.0\LibAddonMenu-2.0.lua
+libs\LibAddonMenu-2.0\controls\panel.lua
+libs\LibAddonMenu-2.0\controls\submenu.lua
+libs\LibAddonMenu-2.0\controls\button.lua
+libs\LibAddonMenu-2.0\controls\checkbox.lua
+libs\LibAddonMenu-2.0\controls\colorpicker.lua
+libs\LibAddonMenu-2.0\controls\custom.lua
+libs\LibAddonMenu-2.0\controls\description.lua
+libs\LibAddonMenu-2.0\controls\dropdown.lua
+libs\LibAddonMenu-2.0\controls\editbox.lua
+libs\LibAddonMenu-2.0\controls\header.lua
+libs\LibAddonMenu-2.0\controls\slider.lua
+libs\LibAddonMenu-2.0\controls\texture.lua
+libs\ItemList.lua
+libs\Functions.lua
+SettingsPanel.lua
+SitRep.lua
+SitRep.xml
